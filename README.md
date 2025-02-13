@@ -68,3 +68,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Caiqueerodrigues/Caiqueerodrigues/blob/output/github-contribution-grid-snake.svg)
